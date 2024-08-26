@@ -1,0 +1,4 @@
+/* src/components/GroupTodo.css */
+.completed {
+    text-decoration: line-through;
+}
